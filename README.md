@@ -13,3 +13,8 @@ Notebook links:
 - [Sqlite com python - Coursera WEEK 2 Hands ON](https://colab.research.google.com/drive/1dIiKa3umoi7WIJrTMK6czjn__CpVYUMN)
 - [Hands-on LAB 2: Creating tables, inserting and querying Data - COURSERA Week 3](https://colab.research.google.com/drive/1Wr98dZE-d2hmZD43Xm-IBRIr0aQ8c-94)
 - [Hands-on LAB 3: Analyzing a real World Data Set - COURSERA Week 3](https://colab.research.google.com/drive/1QD6PeYRRJGXnemq3Bd5warCXVVhqoB4a)
+
+
+- ## IMDB
+
+- [IMDB](https://colab.research.google.com/drive/1PY0_MHOY2Wd3n2laJWE6A3UIxlktrrN-)
